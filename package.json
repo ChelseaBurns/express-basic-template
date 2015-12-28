@@ -1,0 +1,22 @@
+{
+  "name": "express-basic-template",
+  "version": "1.0.0",
+  "description": "A basic ExpressJS template.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaBurns/express-basic-template.git"
+  },
+  "author": "Chelsea Burns <co.designux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChelseaBurns/express-basic-template/issues"
+  },
+  "homepage": "https://github.com/ChelseaBurns/express-basic-template#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
